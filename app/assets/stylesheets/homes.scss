@@ -1,17 +1,19 @@
 // Place all the styles related to the homes controller here.
 // They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+// You can use Sass (SCSS) here: http://sass-lang.com
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  margin: 35px;
+html {
+  display: block;
 }
 
 p {
-  line-height: 45px;
-  font-size: 18px;
+  color: #333;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
 }
